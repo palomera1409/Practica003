@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
        Multiplicacion = (RadioButton)findViewById(R.id.radioButton3);
        Divicion = (RadioButton)findViewById(R.id.radioButton4);
    }
-
+//sdfsdf
      public void operacion (View v)
      {
 
